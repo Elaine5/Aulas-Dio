@@ -1,0 +1,4 @@
+Portas de internet
+MySQL = 3306
+Apache = 443
+Gmail = 25, 465 ou 587.
