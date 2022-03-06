@@ -39,5 +39,14 @@ LINKS - TAGS PARA LINKS
 <a></a> (âncora - interliga conteudos da web)
 dentro da tag podemos adicionar:
 - href (hiperlink)
-- target (indica como o conteudo será aberto)
+- target (indica como o conteudo será aberto. ex.:  target=_blank(abrir link em outra página)
+- href mailto (para adicionar email ao link)
+
+
+IMAGENS
+
+<img> *tag que não necessita de fechamento
+
+<img src> é onde iremos colocar o caminho de onde está a imagem
+<img alt> serve para colocar a descrição da imagem para que caso ela não carregue, tenha a informação de que se trata a imagem.
 
