@@ -7,7 +7,7 @@ Aulas da Dio
 
 Estrutra básica do HTML
 
-<!--<!DOCTYPE html> (Serve para informar ao navegador que o arquivo é do tipo HTML5)
+~~~<!DOCTYPE html> (Serve para informar ao navegador que o arquivo é do tipo HTML5)
 <html>
   <head>
     <meta>
@@ -15,4 +15,5 @@ Estrutra básica do HTML
   </head>
   <body>
   </body>
-</html>-->
+</html>
+~~~
