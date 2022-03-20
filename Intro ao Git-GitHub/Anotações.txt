@@ -1,1 +1,9 @@
 Adicionar atualizações no git (git add .)
+
+fluxo de mandar um pull request
+
+git status (verificar modificações)
+git add . (adicionar todos arquivos modificados)
+git commit -m (comitar os arquivos modificados)
+git pull upstream master (verifica se tem alterações na master que não tem no local)
+git push upstream master (enviar o que foi modificado no local para a nuvem)
