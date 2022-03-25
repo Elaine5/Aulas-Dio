@@ -1,0 +1,3 @@
+Bootstrap = é um framework para criar sites responsivos
+
+modelo carrossel = pode ser divido em 12 coluna no geral dentro da classe container
