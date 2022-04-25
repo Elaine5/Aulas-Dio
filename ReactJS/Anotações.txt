@@ -1,0 +1,5 @@
+React JS
+
+- é uma biblioteca JavaScript que cria interfaces de usuário.
+- não é um framework.
+
